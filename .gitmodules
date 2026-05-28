@@ -1,17 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rootcoder007/rootcoder007.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "morie"]
-	path = morie
-	url = https://github.com/rootcoder007/morie
-	branch = main
-	subdir = r-package/morie
-[submodule "rmorie"]
-	path = rmorie
-	url = https://github.com/rootcoder007/rmorie
-	branch = main
-[submodule "rmoriedata"]
-	path = rmoriedata
-	url = https://github.com/rootcoder007/rmoriedata
-	branch = main
