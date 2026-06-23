@@ -10,7 +10,3 @@
 	path = rmoriedata
 	url = https://github.com/rootcoder007/rmoriedata
 	branch = main
-[submodule "rmorielite"]
-	path = rmorielite
-	url = https://github.com/rootcoder007/rmorielite
-	branch = main
