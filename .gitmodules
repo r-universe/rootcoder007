@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/rootcoder007/rootcoder007.r-universe.dev
 	branch = HEAD
-[submodule "moriebricklayer"]
-	path = moriebricklayer
-	url = https://github.com/rootcoder007/morie-bricklayer
-	branch = main
-	subdir = bricklayer
 [submodule "rmorie"]
 	path = rmorie
 	url = https://github.com/rootcoder007/rmorie
 	branch = main
+[submodule "rmoriebricklayer"]
+	path = rmoriebricklayer
+	url = https://github.com/rootcoder007/rmorie-bricklayer
+	branch = main
+	subdir = bricklayer
 [submodule "rmoriedata"]
 	path = rmoriedata
 	url = https://github.com/rootcoder007/rmoriedata
