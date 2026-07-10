@@ -10,7 +10,6 @@
 	path = rmoriebricklayer
 	url = https://github.com/rootcoder007/rmorie-bricklayer
 	branch = main
-	subdir = bricklayer
 [submodule "rmoriedata"]
 	path = rmoriedata
 	url = https://github.com/rootcoder007/rmoriedata
