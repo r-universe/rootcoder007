@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/rootcoder007/rootcoder007.r-universe.dev
 	branch = HEAD
+[submodule "noqtis"]
+	path = noqtis
+	url = https://github.com/rootcoder007/noqtis
+	branch = *release
+	subdir = bindings/r
 [submodule "rmorie"]
 	path = rmorie
 	url = https://github.com/rootcoder007/rmorie
