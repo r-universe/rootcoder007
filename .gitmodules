@@ -5,7 +5,7 @@
 [submodule "noqtis"]
 	path = noqtis
 	url = https://github.com/rootcoder007/noqtis
-	branch = v0.1.3
+	branch = main
 	subdir = bindings/r
 [submodule "rmorie"]
 	path = rmorie
