@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/rootcoder007/rootcoder007.r-universe.dev
 	branch = HEAD
+[submodule "crimlab"]
+	path = crimlab
+	url = https://github.com/rootcoder007/crimlab
+	branch = main
 [submodule "noqtis"]
 	path = noqtis
 	url = https://github.com/rootcoder007/noqtis
